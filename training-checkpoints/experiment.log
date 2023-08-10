@@ -5194,3 +5194,7 @@ Caused by:
 [2023-08-10T21:35:08.416907599+00:00 - INFO - /home/tt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/burn-train-0.8.0/src/learner/epoch.rs:105] Iteration 1
 [2023-08-10T21:35:35.651742800+00:00 - INFO - /home/tt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/burn-train-0.8.0/src/learner/epoch.rs:105] Iteration 2
 [2023-08-10T21:35:57.599409929+00:00 - INFO - /home/tt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/burn-train-0.8.0/src/learner/epoch.rs:105] Iteration 3
+[2023-08-10T21:36:20.436451669+00:00 - INFO - /home/tt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/burn-train-0.8.0/src/learner/epoch.rs:105] Iteration 4
+[2023-08-10T21:36:47.284150025+00:00 - INFO - /home/tt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/burn-train-0.8.0/src/learner/epoch.rs:105] Iteration 5
+[2023-08-10T21:37:12.485063609+00:00 - INFO - /home/tt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/burn-train-0.8.0/src/learner/epoch.rs:105] Iteration 6
+[2023-08-10T21:37:35.454143869+00:00 - INFO - /home/tt/.cargo/registry/src/index.crates.io-6f17d22bba15001f/burn-train-0.8.0/src/learner/epoch.rs:105] Iteration 7
