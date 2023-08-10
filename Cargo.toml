@@ -1,0 +1,7 @@
+
+[workspace]
+members = [
+	"datagen",
+	"enhancer",
+]
+resolver = "2"
